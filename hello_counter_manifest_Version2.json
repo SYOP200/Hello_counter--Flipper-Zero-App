@@ -1,0 +1,12 @@
+{
+  "id": "hello_counter",
+  "title": "Hello Counter",
+  "author": "SYOP200",
+  "version": "0.1",
+  "description": "Simple counter app demonstrating drawing and input.",
+  "icon": "app_icon", 
+  "tags": [
+    "example",
+    "tutorial"
+  ]
+}
